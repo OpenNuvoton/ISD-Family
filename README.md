@@ -5,4 +5,4 @@ ISD M0 Family BSP / Sampe Code
 
 ISD M4 Family BSP / Sampe Code
 -------------
-- [I94100 BSP](https://github.com/OpenNuvoton/I94100BSP.git)s
+- [I94100 BSP](https://github.com/OpenNuvoton/I94100BSP.git)
